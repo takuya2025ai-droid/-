@@ -86,35 +86,17 @@ function appendJobRow_(a) {
   sheet.getRange(newRow, JOB_COL.TOTAL_COUNT).setValue(Number(a['本数(合計)']));
   sheet.getRange(newRow, JOB_COL.WORKERS_COUNT).setValue(a['人工希望人数'] ? Number(a['人工希望人数']) : '');
 
-  copyFormulaDown_(sheet, newRow, JOB_COL.COUNT_20F, JOB_COL.BILLING_AMOUNT);
+  setJobRowFormulas_(sheet, newRow);
 }
 
-/**
- * H〜J列(20F本数・40F本数・請求額)の数式を、直前の行から相対参照でコピーする。
- * 直前行に数式がない(初回投入時など)場合は、プロトタイプと同じ数式をこの行番号向けに組み立てる。
- */
-function copyFormulaDown_(sheet, newRow, fromCol, toCol) {
-  const prevRow = newRow - 1;
-  const prevFormulas = sheet.getRange(prevRow, fromCol, 1, toCol - fromCol + 1).getFormulas();
-  const hasFormula = prevFormulas[0].some(function (f) { return f !== ''; });
-  if (hasFormula) {
-    sheet.getRange(prevRow, fromCol, 1, toCol - fromCol + 1)
-      .copyTo(sheet.getRange(newRow, fromCol, 1, toCol - fromCol + 1));
-    return;
-  }
-  const r = newRow;
+/** H〜J列(20F本数・40F本数・請求額)に数式をセットする。請求額は①単価マスタを検索するCALC_BILLINGを使う(Pricing.gs参照) */
+function setJobRowFormulas_(sheet, r) {
   sheet.getRange(r, JOB_COL.COUNT_20F).setFormula(
     '=IF(OR(E' + r + '="",F' + r + '=""),"",2*F' + r + '-E' + r + '/20)');
   sheet.getRange(r, JOB_COL.COUNT_40F).setFormula(
     '=IF(OR(E' + r + '="",F' + r + '=""),"",E' + r + '/20-F' + r + ')');
-  const m = "'" + SHEET.PRICE_BILLING + "'";
-  const netforceCalc = 'INDEX(' + m + '!$E$7:$H$7,1,MIN(G' + r + ',4))';
-  const sum20 = '(IF(H' + r + '>=1,' + m + '!$E$5,0)+IF(H' + r + '>=2,' + m + '!$F$5,0)' +
-    '+IF(H' + r + '>=3,' + m + '!$G$5,0)+IF(H' + r + '>3,(H' + r + '-3)*' + m + '!$H$5,0))';
-  const sum40 = '(IF(I' + r + '>=1,' + m + '!$E$6,0)+IF(I' + r + '>=2,' + m + '!$F$6,0)' +
-    '+IF(I' + r + '>=3,' + m + '!$G$6,0)+IF(I' + r + '>3,(I' + r + '-3)*' + m + '!$H$6,0))';
   sheet.getRange(r, JOB_COL.BILLING_AMOUNT).setFormula(
-    '=IF(B' + r + '="Netforce",' + netforceCalc + ',' + sum20 + '+' + sum40 + ')');
+    '=IF(B' + r + '="",""' + ',CALC_BILLING(B' + r + ',C' + r + ',H' + r + ',I' + r + ',G' + r + '))');
 }
 
 function notifyIntakeError_(e, err) {

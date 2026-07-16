@@ -12,7 +12,54 @@ function setupSpreadsheet() {
   setupSummarySheet_(SHEET.PAYOUT_SUMMARY, ['作業者名', '期間開始', '期間終了', '合計支払額']);
   setupWorkerMasterSheet_();
   setupStatusLogSheet_();
-  SpreadsheetApp.getUi().alert('シートの初期セットアップが完了しました。①②単価マスタに実際の単価を入力してください。');
+  insertSampleDataIfEmpty_();
+  SpreadsheetApp.getUi().alert(
+    '初期セットアップが完了しました。\n' +
+    '③④シートには動作確認用のサンプル行を1件ずつ入れてあります。H〜J列・G列に金額が自動で入っているか確認してください。\n' +
+    '確認できたらサンプル行は削除し、①②に実際の単価を入力してから運用を始めてください。');
+}
+
+/** 動作確認用のサンプルデータを③④に1行ずつ入れる(既にデータが入っている場合は何もしない) */
+function insertSampleDataIfEmpty_() {
+  const priceBilling = getSheet_(SHEET.PRICE_BILLING);
+  if (priceBilling.getRange(5, 1, 1, 8).getValues()[0].every(function (v) { return v === ''; })) {
+    priceBilling.getRange(5, 1, 3, 8).setValues([
+      ['サンプル取引先A', 'サンプル現場', '本数ベース', '20F', 36000, 34000, 32000, 30000],
+      ['サンプル取引先A', 'サンプル現場', '本数ベース', '40F', 25000, 25000, 25000, 25000],
+      ['サンプル取引先B', 'サンプル現場2', '人工ベース', '人工数', 12000, 17000, 23000, 23000],
+    ]);
+  }
+
+  const pricePayout = getSheet_(SHEET.PRICE_PAYOUT);
+  if (pricePayout.getRange(5, 1, 1, 5).getValues()[0].every(function (v) { return v === ''; })) {
+    pricePayout.getRange(5, 1, 2, 5).setValues([
+      ['個人事業主(スズメ)', 4000, 7000, 9000, 10000],
+      ['協力会社', 5000, 8000, 10000, 11000],
+    ]);
+  }
+
+  const jobLog = getSheet_(SHEET.JOB_LOG);
+  if (jobLog.getRange(4, 1, 1, 7).getValues()[0].every(function (v) { return v === ''; })) {
+    const today = new Date();
+    jobLog.getRange(4, 1, 1, 7).setValues([
+      [today, 'サンプル取引先A', 'サンプル現場', '1レーン目', 80, 3, 3],
+    ]);
+    setJobRowFormulas_(jobLog, 4);
+  }
+
+  const shiftLog = getSheet_(SHEET.SHIFT_LOG);
+  if (shiftLog.getRange(5, 1, 1, 5).getValues()[0].every(function (v) { return v === ''; })) {
+    const today = new Date();
+    shiftLog.getRange(5, 1, 3, 5).setValues([
+      [today, 'サンプル現場', '1レーン目', '山田太郎(サンプル)', '個人事業主(スズメ)'],
+      [today, 'サンプル現場', '1レーン目', '佐藤次郎(サンプル)', '個人事業主(スズメ)'],
+      [today, 'サンプル現場', '1レーン目', '鈴木三郎(サンプル)', '個人事業主(スズメ)'],
+    ]);
+    for (let r = 5; r <= 7; r++) {
+      shiftLog.getRange(r, SHIFT_COL.UNITS_HANDLED).setValue(1);
+      shiftLog.getRange(r, SHIFT_COL.PAYOUT_AMOUNT).setFormula('=CALC_PAYOUT(E' + r + ',F' + r + ')');
+    }
+  }
 }
 
 function ensureSheet_(name) {
