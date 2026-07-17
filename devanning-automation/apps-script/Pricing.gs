@@ -27,14 +27,14 @@ function CALC_BILLING(client, site, count20, count40, workerCount) {
 
   const laborRow = matches.filter(function (r) { return r[2] === '人工ベース'; })[0];
   if (laborRow) {
-    return sumTieredPrice_(laborRow.slice(4, 7), laborRow[7], workerCount);
+    return lookupTierPrice_(laborRow.slice(4, 7), laborRow[7], workerCount);
   }
 
   const row20 = matches.filter(function (r) { return r[3] === '20F'; })[0];
   const row40 = matches.filter(function (r) { return r[3] === '40F'; })[0];
   let total = 0;
-  if (row20) total += sumTieredPrice_(row20.slice(4, 7), row20[7], count20);
-  if (row40) total += sumTieredPrice_(row40.slice(4, 7), row40[7], count40);
+  if (row20) total += lookupTierPrice_(row20.slice(4, 7), row20[7], count20);
+  if (row40) total += lookupTierPrice_(row40.slice(4, 7), row40[7], count40);
   return total;
 }
 
@@ -53,19 +53,19 @@ function CALC_PAYOUT(workerType, unitsHandled) {
   if (!match) {
     throw new Error('②単価マスタ_支払に区分「' + workerType + '」が見つかりません。行を追加してください。');
   }
-  return sumTieredPrice_(match.slice(1, 4), match[4], unitsHandled);
+  return lookupTierPrice_(match.slice(1, 4), match[4], unitsHandled);
 }
 
-/** 1本目・2本目・3本目 + 4本目以降(定額) の階段単価を、本数ぶん合算する */
-function sumTieredPrice_(firstThreeTiers, fourthPlusTier, count) {
-  let remaining = Number(count) || 0;
-  let total = 0;
-  for (let i = 0; i < firstThreeTiers.length && remaining > 0; i++) {
-    total += Number(firstThreeTiers[i]) || 0;
-    remaining--;
+/**
+ * 「その日の本数」に対応する単価を1回だけ参照する(1本目+2本目+…と積み上げ足し算はしない)。
+ * 例: 3本の日は3本目の単価をそのまま採用する。4本以降は4本目以降の単価を1回だけ適用する。
+ * (「日/3本なら請求は3本、支払いは一人◯円同一」という実際の運用ルールに合わせている)
+ */
+function lookupTierPrice_(firstThreeTiers, fourthPlusTier, count) {
+  const n = Number(count) || 0;
+  if (n <= 0) return 0;
+  if (n <= firstThreeTiers.length) {
+    return Number(firstThreeTiers[n - 1]) || 0;
   }
-  if (remaining > 0) {
-    total += remaining * (Number(fourthPlusTier) || 0);
-  }
-  return total;
+  return Number(fourthPlusTier) || 0;
 }
