@@ -33,6 +33,7 @@
 | 2026-07-17 | Foundersポッドキャスト(Kelly Johnson) / Forbesマインドセットシフト / 集中力の脳科学発見 | [2026-07-17.md](mindset/2026-07-17.md) |
 | 2026-07-18 | 自己改善の心理的コスト(Psychology Today) / My First Millionポッドキャスト(48時間億万長キャンプ) / Forbes新刊本紹介 | [2026-07-18.md](mindset/2026-07-18.md) |
 | 2026-07-19 | Foundersポッドキャスト(David Senra/415人の伝記) / 本物の自信と見せかけ(Psychology Today) / タイムリッチの考え方(Ramit Sethi) | [2026-07-19.md](mindset/2026-07-19.md) |
+| 2026-07-20 | My First Millionポッドキャスト(Ray Dalio/痛み+内省=成長) / インポスター症候群と富(Fortune) / 決断疲れ(裁判官の研究) | [2026-07-20.md](mindset/2026-07-20.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
