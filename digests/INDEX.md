@@ -59,6 +59,7 @@
 | 2026-07-22 | Foundersポッドキャスト(David Senra/本田宗一郎) / アメとムチより自己決定理論 / 資格より経験(Alix Earle/Fortune) | [2026-07-22.md](mindset/2026-07-22.md) |
 | 2026-07-23 | Foundersポッドキャスト(David Senra/Peter Thiel) / 拡大より誇り(MFM/ブルーカラー職人) / 好奇心のメンタル筋肉(Psychology Today) | [2026-07-23.md](mindset/2026-07-23.md) |
 | 2026-07-24 | バズると良いは別(Founders/Jeff Zalaznick) / 5年半の下積み(Fortune/David Senra) / 履歴より本気度(Fortune/Ramp) | [2026-07-24.md](mindset/2026-07-24.md) |
+| 2026-07-25 | AI時代の思考力(DOAC/Hormozi) / 目立たない超富裕層(MFM/Cargill) / 一発屋と一流の差(Forbes/NERD) | [2026-07-25.md](mindset/2026-07-25.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
