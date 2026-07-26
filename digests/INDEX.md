@@ -62,6 +62,7 @@
 | 2026-07-23 | Foundersポッドキャスト(David Senra/Peter Thiel) / 拡大より誇り(MFM/ブルーカラー職人) / 好奇心のメンタル筋肉(Psychology Today) | [2026-07-23.md](mindset/2026-07-23.md) |
 | 2026-07-24 | バズると良いは別(Founders/Jeff Zalaznick) / 5年半の下積み(Fortune/David Senra) / 履歴より本気度(Fortune/Ramp) | [2026-07-24.md](mindset/2026-07-24.md) |
 | 2026-07-25 | AI時代の思考力(DOAC/Hormozi) / 目立たない超富裕層(MFM/Cargill) / 一発屋と一流の差(Forbes/NERD) | [2026-07-25.md](mindset/2026-07-25.md) |
+| 2026-07-26 | 最初の売り込み失敗(Fortune/JB Straubel) / 週末の振り返り習慣(Fortune/Eric Schmidt) / マインドセットは経営指標(Kauffman) | [2026-07-26.md](mindset/2026-07-26.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
