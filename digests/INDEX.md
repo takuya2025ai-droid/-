@@ -76,6 +76,7 @@
 | 2026-07-25 | AI時代の思考力(DOAC/Hormozi) / 目立たない超富裕層(MFM/Cargill) / 一発屋と一流の差(Forbes/NERD) | [2026-07-25.md](mindset/2026-07-25.md) |
 | 2026-07-26 | 最初の売り込み失敗(Fortune/JB Straubel) / 週末の振り返り習慣(Fortune/Eric Schmidt) / マインドセットは経営指標(Kauffman) | [2026-07-26.md](mindset/2026-07-26.md) |
 | 2026-07-27 | 「好き×儲かる」の掛け算(MFM/Mark Pincus) / 欲求は不幸の契約書(Naval Ravikant) / 楽な報酬がやる気を奪う科学(Huberman Lab) | [2026-07-27.md](mindset/2026-07-27.md) |
+| 2026-07-28 | 制限があるほど仕事は磨かれる(Founders/DHH) / 注目したものが大事になる(MFM/Rory Sutherland) / 忙しい人ほど燃え尽きに気づけない(Psychology Today) | [2026-07-28.md](mindset/2026-07-28.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
