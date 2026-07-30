@@ -82,6 +82,7 @@
 | 2026-07-27 | 「好き×儲かる」の掛け算(MFM/Mark Pincus) / 欲求は不幸の契約書(Naval Ravikant) / 楽な報酬がやる気を奪う科学(Huberman Lab) | [2026-07-27.md](mindset/2026-07-27.md) |
 | 2026-07-28 | 制限があるほど仕事は磨かれる(Founders/DHH) / 注目したものが大事になる(MFM/Rory Sutherland) / 忙しい人ほど燃え尽きに気づけない(Psychology Today) | [2026-07-28.md](mindset/2026-07-28.md) |
 | 2026-07-29 | 快適さは長期的な敵(DOAC/Matthew McConaughey) / 売ってるのは信頼(Founders/Merchant Bankers) / 地味な準備が人生を変える(Fortune/Henry Kravis) | [2026-07-29.md](mindset/2026-07-29.md) |
+| 2026-07-30 | 専門知識より日常の気づきが武器(MFM/Chris Camillo) / 成功者ほど失敗が多い(Psychology Today) / 発信は資産づくり(Forbes) | [2026-07-30.md](mindset/2026-07-30.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
