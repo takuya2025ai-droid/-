@@ -88,6 +88,7 @@
 | 2026-07-29 | 快適さは長期的な敵(DOAC/Matthew McConaughey) / 売ってるのは信頼(Founders/Merchant Bankers) / 地味な準備が人生を変える(Fortune/Henry Kravis) | [2026-07-29.md](mindset/2026-07-29.md) |
 | 2026-07-30 | 専門知識より日常の気づきが武器(MFM/Chris Camillo) / 成功者ほど失敗が多い(Psychology Today) / 発信は資産づくり(Forbes) | [2026-07-30.md](mindset/2026-07-30.md) |
 | 2026-07-31 | ストレス対応は6タイプ(HBR) / 億万長者111人の共通習慣(Fortune/JPMorgan) / 「いつか」は一生来ない(Tim Ferriss/Kevin Rose) | [2026-07-31.md](mindset/2026-07-31.md) |
+| 2026-08-01 | リスクの定義を間違えるな(HBS/Tim Ferriss) / レジリエンスは我慢じゃない(Psychology Today) / 失敗は成功の母じゃない(NBER研究) | [2026-08-01.md](mindset/2026-08-01.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
