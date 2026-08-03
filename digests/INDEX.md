@@ -94,6 +94,7 @@
 | 2026-07-31 | ストレス対応は6タイプ(HBR) / 億万長者111人の共通習慣(Fortune/JPMorgan) / 「いつか」は一生来ない(Tim Ferriss/Kevin Rose) | [2026-07-31.md](mindset/2026-07-31.md) |
 | 2026-08-01 | リスクの定義を間違えるな(HBS/Tim Ferriss) / レジリエンスは我慢じゃない(Psychology Today) / 失敗は成功の母じゃない(NBER研究) | [2026-08-01.md](mindset/2026-08-01.md) |
 | 2026-08-02 | 孤独を避けるな(Modern Wisdom) / 質問一つが9億ドルになった(HBS Foundry/Reese Witherspoon) / 折れやすい人は2倍辞めてる(Foundology/UCL研究) | [2026-08-02.md](mindset/2026-08-02.md) |
+| 2026-08-03 | 支配権は渡すな(Fortune/David Senra) / 起業には型がある(DOAC/Alex Hormozi) / 倒産寸前、社員は残った(Founders/Jonathan Ross・Groq) | [2026-08-03.md](mindset/2026-08-03.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
