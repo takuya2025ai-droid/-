@@ -27,6 +27,7 @@
 | 日付 | 主なテーマ | ファイル |
 |------|-----------|----------|
 | 2026-08-04 | 1300万人はバズなしだった(Net Influencer事例分析) / ハッシュタグ30個はNG(Shannon McKinstrie) / カルーセルは1枚目で8割(Katelyn Rhoades) / 1本のバズは意味ない(Rachel Karten) | [2026-08-04.md](sns/2026-08-04.md) |
+| 2026-08-05 | 伸び悩みはネタ切れじゃない(Hannah Zhang) / 好きな投稿はするな(Paulo A. José) / 2016年風が伸びる(Lia Haberman/Alena Yuan) / バズは運じゃない(Elizabeth Marberry) | [2026-08-05.md](sns/2026-08-05.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
