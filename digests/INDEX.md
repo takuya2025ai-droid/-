@@ -110,6 +110,7 @@
 | 2026-08-03 | 支配権は渡すな(Fortune/David Senra) / 起業には型がある(DOAC/Alex Hormozi) / 倒産寸前、社員は残った(Founders/Jonathan Ross・Groq) | [2026-08-03.md](mindset/2026-08-03.md) |
 | 2026-08-04 | 13歳の借金が土台になった(Founders/Micky Malka) / 天才は12歳で決まる(MFM/ゴールデンウィンドウ) / 100人に断られた男の勝算(CNBC/Synthesia) | [2026-08-04.md](mindset/2026-08-04.md) |
 | 2026-08-05 | 未完成を恥じるな(Forbes/Andy Molinsky・Sara Blakely) / AI時代に伸びる5技能(Tim Ferriss Show) / 一瞬の間が脳を変える(Inc./判断科学研究) | [2026-08-05.md](mindset/2026-08-05.md) |
+| 2026-08-06 | メンタル強圦50選(Forbes/Jodie Cook) / 資産はお金じゃない(DOAC/Ray Dalio) / 批判に反論するな(MFM/Bernard Arnault公開書簡) | [2026-08-06.md](mindset/2026-08-06.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
