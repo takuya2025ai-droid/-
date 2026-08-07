@@ -30,6 +30,7 @@
 | 2026-08-05 | 伸び悩みはネタ切れじゃない(Hannah Zhang) / 好きな投稿はするな(Paulo A. José) / 2016年風が伸びる(Lia Haberman/Alena Yuan) / バズは運じゃない(Elizabeth Marberry) | [2026-08-05.md](sns/2026-08-05.md) |
 | 2026-08-06 | リールをやめて2.6万人(Milena Milak) / 150アカウント分析、悪いのはアルゴリズムじゃない(Creator Passport Podcast) / 撮影ゼロ秒で3.3億再生(WaveVision) / アルゴリズムの「言語」を話せ(Shiny New Clients!) | [2026-08-06.md](sns/2026-08-06.md) |
 | 2026-08-07 | シリーズ化で1年11万人(Jack Appleby) / 3週間で結果を求めるな(Gary Vaynerchuk) / 1投稿で1.2万人増(Anne Stark Ditmeyer) / 伸びは生っぽさ次第じゃない(Jack Appleby/Future Social) | [2026-08-07.md](sns/2026-08-07.md) |
+| 2026-08-08 | 売上9割はIG経由(Irina Volfson) / AI量産投稿はNG(Zehra Jabeen) / 276万回再生の仕掛け(The Williams Agency) / 伸びは視聴率じゃない(FastForwardAmy) | [2026-08-08.md](sns/2026-08-08.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
