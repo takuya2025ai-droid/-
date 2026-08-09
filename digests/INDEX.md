@@ -32,6 +32,7 @@
 | 2026-08-07 | シリーズ化で1年11万人(Jack Appleby) / 3週間で結果を求めるな(Gary Vaynerchuk) / 1投稿で1.2万人増(Anne Stark Ditmeyer) / 伸びは生っぽさ次第じゃない(Jack Appleby/Future Social) | [2026-08-07.md](sns/2026-08-07.md) |
 | 2026-08-08 | 売上9割はIG経由(Irina Volfson) / AI量産投稿はNG(Zehra Jabeen) / 276万回再生の仕掛け(The Williams Agency) / 伸びは視聴率じゃない(FastForwardAmy) | [2026-08-08.md](sns/2026-08-08.md) |
 | 2026-08-09 | DM集客が最強(Kit/Gannon Meyer) / ハッシュタグ探しは無駄(Shannon Shipman) / バズる型はもう古い(Medium/Viral Boris) / 即消すと損、36時間の伸び(Brock Johnson) | [2026-08-09.md](sns/2026-08-09.md) |
+| 2026-08-10 | 1万2千人で25万ドル(Foundr/Austin Peterson) / 最初の1行の型(Sue B. Zimmerman) / バズる型の正体(CreatorsJet) / アルゴリズムのせいじゃない(Jenn Herman) | [2026-08-10.md](sns/2026-08-10.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
