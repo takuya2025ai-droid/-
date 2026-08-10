@@ -122,6 +122,7 @@
 | 2026-08-07 | 現状維持で満足するな(Fortune/Alyson Shontell・CEOプレイブック) / 言葉で決まる一年(Forbes/Rick Tollakson) / 一流の口癖(Fast Company/Alexa von Tobel) | [2026-08-07.md](mindset/2026-08-07.md) |
 | 2026-08-08 | 勝つか負けるかで動け(TechCrunch/19歳起業家) / 生き残るのはお金じゃない(Forbes/YCセラピスト) / うまい話に飛びつくな(How I Built This/Serena & Lily) | [2026-08-08.md](mindset/2026-08-08.md) |
 | 2026-08-09 | ChatGPTで150億ドル(Fortune/Michael Saylor) / 億万長者の心理術(Knowledge Project/Brad Jacobs) / VCが見ない98%(Fast Company/Serena Williams) | [2026-08-09.md](mindset/2026-08-09.md) |
+| 2026-08-10 | 倒産寸前から大逆転(YC Startup School/Jensen Huang) / AI時代の武器は判断力(Psychology Today) / 人気のない場所に賭けろ(Fortune/Sam Altman) | [2026-08-10.md](mindset/2026-08-10.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
