@@ -90,6 +90,7 @@
 | 2026-08-08 | 聞くほど良いは嘘(傾聴パズル研究) / 伸びる人の共通点(知的謙虚さとフィードバック受容研究) / 松竹梅は効果薄い(デコイ効果追試研究) | [2026-08-08.md](coaching/2026-08-08.md) |
 | 2026-08-09 | 自信は逆効果になる(NCMR最優秀論文賞/自信の伝わり方研究) / 4回で目標が変わる(コーチングRCT研究) / 週1で達成率76%(MySalesCoach 2026年調査) | [2026-08-09.md](coaching/2026-08-09.md) |
 | 2026-08-10 | 命令口調のアドバイス(Journal of Communication・反発心研究) / 伝わる話の共通点(PNAS Nexus・脳科学メガ分析) / 集中疲れは目標次第(The Conversation/D. Zachary Hambrick) | [2026-08-10.md](coaching/2026-08-10.md) |
+| 2026-08-13 | 3秒黙るべき理由(MIT Sloan/Curhan・沈黙と交渉研究) / 相槌の合わせすぎというミス(University of Georgia/Eric Novotny) / 説得力は書くと増す(Journal of Consumer Psychology/Hamby) | [2026-08-13.md](coaching/2026-08-13.md) |
 
 ## 🧠 マインドセット(毎日18:00)
 
