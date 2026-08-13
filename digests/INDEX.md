@@ -34,6 +34,7 @@
 | 2026-08-09 | DM集客が最強(Kit/Gannon Meyer) / ハッシュタグ探しは無駄(Shannon Shipman) / バズる型はもう古い(Medium/Viral Boris) / 即消すと損、36時間の伸び(Brock Johnson) | [2026-08-09.md](sns/2026-08-09.md) |
 | 2026-08-10 | 1万2千人で25万ドル(Foundr/Austin Peterson) / 最初の1行の型(Sue B. Zimmerman) / バズる型の正体(CreatorsJet) / アルゴリズムのせいじゃない(Jenn Herman) | [2026-08-10.md](sns/2026-08-10.md) |
 | 2026-08-13 | 広告費ゼロで9万人(Shweena Krishnani) / 日記みたいな投稿というミス(Catarina Mello) / バズる台本の型(Shweena Krishnani) / 伸びない本当の理由(Buffer/Shivani) | [2026-08-13.md](sns/2026-08-13.md) |
+| 2026-08-14 | 3週間で200万円(Elise Darma) / バズ狙いの罠というミス(Natasha Pierre) / 1枚目が8割の法則(Carouselli) / フォロワー数は資産じゃない(Searchlight Social/Vince Dwayne) | [2026-08-14.md](sns/2026-08-14.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
