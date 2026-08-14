@@ -92,6 +92,7 @@
 | 2026-08-09 | 自信は逆効果になる(NCMR最優秀論文賞/自信の伝わり方研究) / 4回で目標が変わる(コーチングRCT研究) / 週1で達成率76%(MySalesCoach 2026年調査) | [2026-08-09.md](coaching/2026-08-09.md) |
 | 2026-08-10 | 命令口調のアドバイス(Journal of Communication・反発心研究) / 伝わる話の共通点(PNAS Nexus・脳科学メガ分析) / 集中疲れは目標次第(The Conversation/D. Zachary Hambrick) | [2026-08-10.md](coaching/2026-08-10.md) |
 | 2026-08-13 | 3秒黙るべき理由(MIT Sloan/Curhan・沈黙と交渉研究) / 相槌の合わせすぎというミス(University of Georgia/Eric Novotny) / 説得力は書くと増す(Journal of Consumer Psychology/Hamby) | [2026-08-13.md](coaching/2026-08-13.md) |
+| 2026-08-14 | 語尾で説得力が変わる(Personality and Social Psychology Bulletin/Vaughan-Johnston他) / 一気に変える指導というミス(Tim Ferriss Show/Jerzy Gregorek・マイクロプログレッション) / 具体目標が足かせに(Educational Psychology誌/Pietsch他) | [2026-08-14.md](coaching/2026-08-14.md) |
 
 ## 🧠 マインドセット(毎日18:00)
 
