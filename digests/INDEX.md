@@ -128,6 +128,7 @@
 | 2026-08-09 | ChatGPTで150億ドル(Fortune/Michael Saylor) / 億万長者の心理術(Knowledge Project/Brad Jacobs) / VCが見ない98%(Fast Company/Serena Williams) | [2026-08-09.md](mindset/2026-08-09.md) |
 | 2026-08-10 | 倒産寸前から大逆転(YC Startup School/Jensen Huang) / AI時代の武器は判断力(Psychology Today) / 人気のない場所に賭けろ(Fortune/Sam Altman) | [2026-08-10.md](mindset/2026-08-10.md) |
 | 2026-08-13 | 失敗は100万回でいい(Fortune/Winston Weinberg・Harvey) / 嫌われる覚悟という武器(Sahil Bloom) / 毎日書けば天才になれる(Tim Ferriss Show/Jerry Seinfeld) | [2026-08-13.md](mindset/2026-08-13.md) |
+| 2026-08-14 | 発信はカリスマ勝負というミス(David Senraポッドキャスト/Lulu Cheng Meservey) / メンタルは鍛えられる(Psychology Today/Faisal Hoque) / 嵐の後の準備は遅い(Forbes/Rhett Power) | [2026-08-14.md](mindset/2026-08-14.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
