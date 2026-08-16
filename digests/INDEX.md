@@ -96,6 +96,7 @@
 | 2026-08-13 | 3秒黙るべき理由(MIT Sloan/Curhan・沈黙と交渉研究) / 相槌の合わせすぎというミス(University of Georgia/Eric Novotny) / 説得力は書くと増す(Journal of Consumer Psychology/Hamby) | [2026-08-13.md](coaching/2026-08-13.md) |
 | 2026-08-14 | 語尾で説得力が変わる(Personality and Social Psychology Bulletin/Vaughan-Johnston他) / 一気に変える指導というミス(Tim Ferriss Show/Jerzy Gregorek・マイクロプログレッション) / 具体目標が足かせに(Educational Psychology誌/Pietsch他) | [2026-08-14.md](coaching/2026-08-14.md) |
 | 2026-08-15 | 雑談を飛ばす進行というミス(Journal of Personality and Social Psychology/Trinh・Thio・Klein) / 自信満々ほど危険(Tomas Chamorro-Premuzic) / 進捗より先に聞くこと(Youth誌・641人調査) | [2026-08-15.md](coaching/2026-08-15.md) |
+| 2026-08-16 | 自信より大事なこと(Forbes/Michelle Travis・PNAS交渉研究) / 圧のある質問というミス(Journal of Organizational Behavior/Song他) / 万人向け商品という間違い(Diary of a CEO/Seth Godin) | [2026-08-16.md](coaching/2026-08-16.md) |
 
 ## 🧠 マインドセット(毎日18:00)
 
