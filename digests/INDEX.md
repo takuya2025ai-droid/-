@@ -137,6 +137,7 @@
 | 2026-08-14 | 発信はカリスマ勝負というミス(David Senraポッドキャスト/Lulu Cheng Meservey) / メンタルは鍛えられる(Psychology Today/Faisal Hoque) / 嵐の後の準備は遅い(Forbes/Rhett Power) | [2026-08-14.md](mindset/2026-08-14.md) |
 | 2026-08-15 | 賢さより大事なもの(Founders Podcast/Michael Ovitz) / 成功は大当たり待ちというミス(Founders Podcast/Raymond Plank) / 優秀さは任せる力(CEO Coaching International/Rick Sapio) | [2026-08-15.md](mindset/2026-08-15.md) |
 | 2026-08-16 | 早起きは根性論というミス(Fortune/Twilio CEOコゼマ・シップチャンドラー) / 燃え尽きを防ぐカギ(Australian Journal of Psychology/Asheghi他) / やる気だけで始めるな(Mel Robbins Podcast/Katy Milkman) | [2026-08-16.md](mindset/2026-08-16.md) |
+| 2026-08-17 | 野心より管理能力(a16z Podcast/Travis Kalanick) / 退屈に耐える力(Forbes/Mark Travers) / 新しさを追いすぎるクセという損(SUCCESS/Codie Sanchez) | [2026-08-17.md](mindset/2026-08-17.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
