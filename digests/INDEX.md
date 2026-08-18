@@ -39,6 +39,7 @@
 | 2026-08-16 | 300人から1万1千人(South Street Marketing) / 3ヶ月は稼げないというミス(Lilach Bullock) / カルーセルは2度見せの仕組み(Second Brain) / 見飽きられて沈むアルゴリズム(Plot Twist Daily) | [2026-08-16.md](sns/2026-08-16.md) |
 | 2026-08-17 | たった一つの投稿で5万人(Hannah Zhang) / バズ狙いというミス(Kazimier Smith/NYU Stern) / カルーセルは8枚目で伸びる(Marketing Agent Blog) / DMシェアが3〜5倍評価(Later) | [2026-08-17.md](sns/2026-08-17.md) |
 | 2026-08-18 | トレンドを追う発信というミス(WeekHack/154万人) / 短文キャプションの罠(PostPlanify) / あえて興味を削ぐアンチフック(Captain Hook AI) / 投稿後最初の60分(Digital Applied) | [2026-08-18.md](sns/2026-08-18.md) |
+| 2026-08-19 | 0→13万人のグロースコンテンツ(Business Secrets Club/Martha Keith) / 同じネタを避ける悪習慣(Tony Herman) / 伸びるリールの3層構造(Caption Studio) / 投稿直後の黄金時間(RecentReborn) | [2026-08-19.md](sns/2026-08-19.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
