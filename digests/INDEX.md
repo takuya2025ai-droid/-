@@ -100,6 +100,7 @@
 | 2026-08-15 | 雑談を飛ばす進行というミス(Journal of Personality and Social Psychology/Trinh・Thio・Klein) / 自信満々ほど危険(Tomas Chamorro-Premuzic) / 進捗より先に聞くこと(Youth誌・641人調査) | [2026-08-15.md](coaching/2026-08-15.md) |
 | 2026-08-16 | 自信より大事なこと(Forbes/Michelle Travis・PNAS交渉研究) / 圧のある質問というミス(Journal of Organizational Behavior/Song他) / 万人向け商品という間違い(Diary of a CEO/Seth Godin) | [2026-08-16.md](coaching/2026-08-16.md) |
 | 2026-08-17 | リマインダー頼みという間違い(Journal of Experimental Psychology/Fellers・Storm) / 傾聴上手の正体(Forbes/Joe Folkman・Zenger Folkman研究) / 自分語りのしすぎは厳禁(Passmore・Nobes) | [2026-08-17.md](coaching/2026-08-17.md) |
+| 2026-08-18 | 断り文句の正体は値段じゃない(The Expert CFO) / 深掘り質問を返せ(HBS/Huang他) / 緊張への対処法は先手必勝(Huberman Lab/Ralph Adolphs) | [2026-08-18.md](coaching/2026-08-18.md) |
 
 ## 🧠 マインドセット(毎日18:00)
 
