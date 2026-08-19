@@ -102,6 +102,7 @@
 | 2026-08-16 | 自信より大事なこと(Forbes/Michelle Travis・PNAS交渉研究) / 圧のある質問というミス(Journal of Organizational Behavior/Song他) / 万人向け商品という間違い(Diary of a CEO/Seth Godin) | [2026-08-16.md](coaching/2026-08-16.md) |
 | 2026-08-17 | リマインダー頼みという間違い(Journal of Experimental Psychology/Fellers・Storm) / 傾聴上手の正体(Forbes/Joe Folkman・Zenger Folkman研究) / 自分語りのしすぎは厳禁(Passmore・Nobes) | [2026-08-17.md](coaching/2026-08-17.md) |
 | 2026-08-18 | 断り文句の正体は値段じゃない(The Expert CFO) / 深掘り質問を返せ(HBS/Huang他) / 緊張への対処法は先手必勝(Huberman Lab/Ralph Adolphs) | [2026-08-18.md](coaching/2026-08-18.md) |
+| 2026-08-19 | 信頼させる話し方は実は間違い(Journal of Business and Psychology/Sinha他) / ヒアリング一致率45%の衝撃(Corporate Visions/Tim Riesterer) / 3語で説明を組み立てろ(Huberman Lab/Matt Abrahams) | [2026-08-19.md](coaching/2026-08-19.md) |
 
 ## 🧠 マインドセット(毎日18:00)
 
