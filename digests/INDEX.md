@@ -41,6 +41,7 @@
 | 2026-08-18 | トレンドを追う発信というミス(WeekHack/154万人) / 短文キャプションの罠(PostPlanify) / あえて興味を削ぐアンチフック(Captain Hook AI) / 投稿後最初の60分(Digital Applied) | [2026-08-18.md](sns/2026-08-18.md) |
 | 2026-08-19 | 0→13万人のグロースコンテンツ(Business Secrets Club/Martha Keith) / 同じネタを避ける悪習慣(Tony Herman) / 伸びるリールの3層構造(Caption Studio) / 投稿直後の黄金時間(RecentReborn) | [2026-08-19.md](sns/2026-08-19.md) |
 | 2026-08-20 | いいね数だけで判断は厳禁(Jenna Kutcher) / 完璧待ちの投稿という悪習慣(Clapper) / 感情で再生数49倍(Upgrow) / 見てる人の本音は保存数に出る(Oh Snap Social/Karlyn Ankrom) | [2026-08-20.md](sns/2026-08-20.md) |
+| 2026-08-21 | 伸びない原因の特定法(Instacoach Mike/Mikhail Gribov) / 大物の真似っこは絶対やめろ(Hussain Ibarra) / 保存されるカルーセルの型(Adpicto) / 飽きられてるんじゃなく疲れている(Buffer/Alexa Phillips) | [2026-08-21.md](sns/2026-08-21.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
