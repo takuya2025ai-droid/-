@@ -146,6 +146,7 @@
 | 2026-08-17 | 野心より管理能力(a16z Podcast/Travis Kalanick) / 退屈に耐える力(Forbes/Mark Travers) / 新しさを追いすぎるクセという損(SUCCESS/Codie Sanchez) | [2026-08-17.md](mindset/2026-08-17.md) |
 | 2026-08-18 | 成功の裏の倒産寸前は実は普通(My First Million/Brett Adcock) / AI任せの判断は要注意(Psychology Today/Nguyen・Hoang) / ルール違反を叱るのは逆効果(HBR/Michael J. Gill) | [2026-08-18.md](mindset/2026-08-18.md) |
 | 2026-08-19 | 不安を止まれの合図にするのは実は間違い(Forbes/Kwame Christian) / 63歳で1から再出発(How I Built This/Bobbi Brown) | [2026-08-19.md](mindset/2026-08-19.md) |
+| 2026-08-20 | 面倒な事業ほど強いという新事実(My First Million/Kevin Moyer) / 急ぎすぎる組織づくりは厳禁(Forbes/Tonia Ryan) / 自力主義という足かせ(Fortune/Samuel Mueller) | [2026-08-20.md](mindset/2026-08-20.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
