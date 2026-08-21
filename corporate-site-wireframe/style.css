@@ -1,0 +1,259 @@
+/* =========================================================
+   corporate-site-wireframe / style.css
+   構成・要素の並びを確認するためのワイヤーフレーム用CSS
+   色・グラデーション・影は使用しない（白黒のみ）
+   ========================================================= */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+  color: #000;
+  background: #fff;
+  line-height: 1.8;
+}
+
+.wrap {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+a {
+  color: #000;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* ---------- ワイヤーフレーム共通パーツ ---------- */
+
+.section-label {
+  display: inline-block;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  border: 1px solid #000;
+  padding: 2px 8px;
+  margin-bottom: 12px;
+}
+
+.block {
+  border: 1px solid #000;
+  padding: 24px;
+  margin: 24px 0;
+}
+
+.block h2 {
+  margin-top: 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #000;
+}
+
+.placeholder-box {
+  border: 1px dashed #000;
+  text-align: center;
+  padding: 60px 16px;
+  margin: 16px 0;
+  font-size: 0.85rem;
+}
+
+.breadcrumb {
+  font-size: 0.8rem;
+  margin: 16px 0 0;
+}
+
+/* ---------- ヘッダー ---------- */
+
+.site-header {
+  border-bottom: 2px solid #000;
+  padding: 16px 0;
+}
+
+.site-header .wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin: 0;
+  border: 1px solid #000;
+  padding: 6px 12px;
+}
+
+.gnav ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+}
+
+.gnav a {
+  display: block;
+  text-decoration: none;
+  border: 1px solid #000;
+  padding: 6px 14px;
+}
+
+.gnav .is-current a {
+  border-width: 2px;
+  font-weight: bold;
+}
+
+/* ---------- ボタン ---------- */
+
+.btn {
+  display: inline-block;
+  border: 2px solid #000;
+  padding: 12px 32px;
+  text-decoration: none;
+  color: #000;
+  background: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+/* ---------- FV（ファーストビュー） ---------- */
+
+.fv {
+  text-align: center;
+  padding: 60px 24px;
+}
+
+.fv h1 {
+  font-size: 1.8rem;
+  margin: 20px 0 12px;
+}
+
+.fv .sub {
+  font-size: 1rem;
+  margin-bottom: 24px;
+}
+
+/* ---------- 一覧・カード ---------- */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  list-style: none;
+  margin: 16px 0;
+  padding: 0;
+}
+
+.grid li,
+.card {
+  border: 1px solid #000;
+  padding: 18px;
+}
+
+.card h3 {
+  margin-top: 0;
+  border-bottom: 1px dashed #000;
+  padding-bottom: 8px;
+}
+
+.more-link {
+  display: inline-block;
+  margin-top: 16px;
+  text-decoration: underline;
+}
+
+/* ---------- テーブル（会社概要など） ---------- */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  border: 1px solid #000;
+  padding: 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+table th {
+  width: 30%;
+  white-space: nowrap;
+}
+
+/* ---------- フォーム ---------- */
+
+.form-row {
+  border: 1px solid #000;
+  padding: 14px;
+  margin-bottom: 14px;
+}
+
+.form-row label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.required {
+  font-size: 0.75rem;
+  border: 1px solid #000;
+  padding: 1px 6px;
+  margin-left: 6px;
+  font-weight: normal;
+}
+
+.form-row input,
+.form-row textarea {
+  width: 100%;
+  border: 1px solid #000;
+  padding: 10px;
+  font-family: inherit;
+  font-size: 1rem;
+  background: #fff;
+  color: #000;
+}
+
+/* ---------- フッター ---------- */
+
+.site-footer {
+  border-top: 2px solid #000;
+  margin-top: 60px;
+  padding: 24px 0;
+  font-size: 0.85rem;
+}
+
+.site-footer .wrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.site-footer .gnav ul {
+  flex-direction: column;
+}
+
+.site-footer .gnav a {
+  border: none;
+  padding: 2px 0;
+  text-decoration: underline;
+}
+
+.copyright {
+  width: 100%;
+  text-align: center;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #000;
+}
