@@ -108,6 +108,7 @@
 | 2026-08-19 | 信頼させる話し方は実は間違い(Journal of Business and Psychology/Sinha他) / ヒアリング一致率45%の衝撃(Corporate Visions/Tim Riesterer) / 3語で説明を組み立てろ(Huberman Lab/Matt Abrahams) | [2026-08-19.md](coaching/2026-08-19.md) |
 | 2026-08-20 | 一言が交渉結果を変える(NCMR誌・マイクロシフト研究) / 客が発する緊急サイン(HBR/Zhang・Zhao・Li) / 共感力より大事な達成志向(Journal of Applied Behavioral Science/Boyatzis他) | [2026-08-20.md](coaching/2026-08-20.md) |
 | 2026-08-21 | 早い変化への疑いは実は間違い(HBR/Chon・Sezer・Flynn) / 説得力を生む声は熱意じゃない(Journal of Consumer Research/Wang他) / 質問はうまくいった未来から(Frontiers in Psychology/Solms他) | [2026-08-21.md](coaching/2026-08-21.md) |
+| 2026-08-22 | 抵抗は敵じゃない(Organisationsberatung, Supervision, Coaching/Monika Zimmermann) / 事実と解釈は必ず分けろ(Tim Ferriss Show/Jim Dethmer) / 先に弱みを見せろは衝撃(Organization Science/Coutifaris・Grant) | [2026-08-22.md](coaching/2026-08-22.md) |
 
 ## 🧠 マインドセット(毎日18:00)
 
