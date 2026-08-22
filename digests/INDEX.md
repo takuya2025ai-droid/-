@@ -152,6 +152,7 @@
 | 2026-08-19 | 不安を止まれの合図にするのは実は間違い(Forbes/Kwame Christian) / 63歳で1から再出発(How I Built This/Bobbi Brown) | [2026-08-19.md](mindset/2026-08-19.md) |
 | 2026-08-20 | 面倒な事業ほど強いという新事実(My First Million/Kevin Moyer) / 急ぎすぎる組織づくりは厳禁(Forbes/Tonia Ryan) / 自力主義という足かせ(Fortune/Samuel Mueller) | [2026-08-20.md](mindset/2026-08-20.md) |
 | 2026-08-21 | AI時代は問いを立てる力(Forbes/Sarah Hernholm) / 断った拡大のチャンスは有料級(RevUp Capital/Melissa Clayton) / 月100万台からゼロへの衝撃(How I Built This/Carlton Calvin) | [2026-08-21.md](mindset/2026-08-21.md) |
+| 2026-08-22 | 99%が知らない地味な事業の勝ち筋(My First Million/Nick Haschka) / 資金より先に動けは実は間違い(My First Million/Noam Eisenberg) | [2026-08-22.md](mindset/2026-08-22.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
