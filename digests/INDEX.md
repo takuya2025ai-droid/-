@@ -43,6 +43,7 @@
 | 2026-08-20 | いいね数だけで判断は厳禁(Jenna Kutcher) / 完璧待ちの投稿という悪習慣(Clapper) / 感情で再生数49倍(Upgrow) / 見てる人の本音は保存数に出る(Oh Snap Social/Karlyn Ankrom) | [2026-08-20.md](sns/2026-08-20.md) |
 | 2026-08-21 | 伸びない原因の特定法(Instacoach Mike/Mikhail Gribov) / 大物の真似っこは絶対やめろ(Hussain Ibarra) / 保存されるカルーセルの型(Adpicto) / 飽きられてるんじゃなく疲れている(Buffer/Alexa Phillips) | [2026-08-21.md](sns/2026-08-21.md) |
 | 2026-08-22 | 方向転換の罠(Buffer/Kirsti) / 投稿後1時間の過ごし方は必ず(Sifu Yik Chan) / キャプションの解剖学(Bodna Media) / 伸びの正体は同調(Crazy Egg/ソロモン・アッシュ) | [2026-08-22.md](sns/2026-08-22.md) |
+| 2026-08-23 | 顔出しなしで1.5万人は衝撃(Stan Blog/Dominic) / いきなり専門家ぶるな厳禁(Komet Media) / 勝負は0.5秒で決まる(Tweetangels) / いいねは無意味で知らないとヤバい(GOSO) | [2026-08-23.md](sns/2026-08-23.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
