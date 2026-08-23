@@ -110,6 +110,7 @@
 | 2026-08-20 | 一言が交渉結果を変える(NCMR誌・マイクロシフト研究) / 客が発する緊急サイン(HBR/Zhang・Zhao・Li) / 共感力より大事な達成志向(Journal of Applied Behavioral Science/Boyatzis他) | [2026-08-20.md](coaching/2026-08-20.md) |
 | 2026-08-21 | 早い変化への疑いは実は間違い(HBR/Chon・Sezer・Flynn) / 説得力を生む声は熱意じゃない(Journal of Consumer Research/Wang他) / 質問はうまくいった未来から(Frontiers in Psychology/Solms他) | [2026-08-21.md](coaching/2026-08-21.md) |
 | 2026-08-22 | 抵抗は敵じゃない(Organisationsberatung, Supervision, Coaching/Monika Zimmermann) / 事実と解釈は必ず分けろ(Tim Ferriss Show/Jim Dethmer) / 先に弱みを見せろは衝撃(Organization Science/Coutifaris・Grant) | [2026-08-22.md](coaching/2026-08-22.md) |
+| 2026-08-23 | 目を見すぎるなは実は間違い(The Conversation/Mauro Giacomantonio) / 批判は必ず3点セットで(HBR/Bin Zhao・Dunkailo) / 批判の前の一手は有料級(HBS/Paul Green他) | [2026-08-23.md](coaching/2026-08-23.md) |
 
 ## 🧠 マインドセット(毎日18:00)
 
