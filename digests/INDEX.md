@@ -44,6 +44,7 @@
 | 2026-08-21 | 伸びない原因の特定法(Instacoach Mike/Mikhail Gribov) / 大物の真似っこは絶対やめろ(Hussain Ibarra) / 保存されるカルーセルの型(Adpicto) / 飽きられてるんじゃなく疲れている(Buffer/Alexa Phillips) | [2026-08-21.md](sns/2026-08-21.md) |
 | 2026-08-22 | 方向転換の罠(Buffer/Kirsti) / 投稿後1時間の過ごし方は必ず(Sifu Yik Chan) / キャプションの解剖学(Bodna Media) / 伸びの正体は同調(Crazy Egg/ソロモン・アッシュ) | [2026-08-22.md](sns/2026-08-22.md) |
 | 2026-08-23 | 顔出しなしで1.5万人は衝撃(Stan Blog/Dominic) / いきなり専門家ぶるな厳禁(Komet Media) / 勝負は0.5秒で決まる(Tweetangels) / いいねは無意味で知らないとヤバい(GOSO) | [2026-08-23.md](sns/2026-08-23.md) |
+| 2026-08-24 | 1本で3000人増加は一瞬で(JoinBrands/Patricia Streff) / 無難な投稿は絶対やめろ(Forbes) / 1枚目に詰め込むな厳禁(Social Mon) / リールは最後が命で知らないとヤバい(Medium/Esha Usmani) | [2026-08-24.md](sns/2026-08-24.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
