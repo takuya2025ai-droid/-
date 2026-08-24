@@ -158,6 +158,7 @@
 | 2026-08-21 | AI時代は問いを立てる力(Forbes/Sarah Hernholm) / 断った拡大のチャンスは有料級(RevUp Capital/Melissa Clayton) / 月100万台からゼロへの衝撃(How I Built This/Carlton Calvin) | [2026-08-21.md](mindset/2026-08-21.md) |
 | 2026-08-22 | 99%が知らない地味な事業の勝ち筋(My First Million/Nick Haschka) / 資金より先に動けは実は間違い(My First Million/Noam Eisenberg) | [2026-08-22.md](mindset/2026-08-22.md) |
 | 2026-08-23 | 似た人を雇うなは実は間違い(Forbes/Jennifer Palmer) / 失敗時の振る舞い方は有料級(Entrepreneur/Jonathan Hung) | [2026-08-23.md](mindset/2026-08-23.md) |
+| 2026-08-24 | 助言集めは無駄で実は間違い(Fortune/Tarek Mansour) / 厳しさと優しさ両立は有料級(Inc./Ali Ansari) | [2026-08-24.md](mindset/2026-08-24.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
