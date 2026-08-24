@@ -45,6 +45,7 @@
 | 2026-08-22 | 方向転換の罠(Buffer/Kirsti) / 投稿後1時間の過ごし方は必ず(Sifu Yik Chan) / キャプションの解剖学(Bodna Media) / 伸びの正体は同調(Crazy Egg/ソロモン・アッシュ) | [2026-08-22.md](sns/2026-08-22.md) |
 | 2026-08-23 | 顔出しなしで1.5万人は衝撃(Stan Blog/Dominic) / いきなり専門家ぶるな厳禁(Komet Media) / 勝負は0.5秒で決まる(Tweetangels) / いいねは無意味で知らないとヤバい(GOSO) | [2026-08-23.md](sns/2026-08-23.md) |
 | 2026-08-24 | 1本で3000人増加は一瞬で(JoinBrands/Patricia Streff) / 無難な投稿は絶対やめろ(Forbes) / 1枚目に詰め込むな厳禁(Social Mon) / リールは最後が命で知らないとヤバい(Medium/Esha Usmani) | [2026-08-24.md](sns/2026-08-24.md) |
+| 2026-08-25 | バズは運じゃなかった新事実(Elizabeth Marberry Podcast/Asli Wade) / 転載頼みの発信は絶対やめろ(9-to-Thrive/Carrie Loranger) / カルーセルに音楽で知らないとヤバい(Ned Potter) / 1投稿だけを見るなは実は間違い(Table Talks HK) | [2026-08-25.md](sns/2026-08-25.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
