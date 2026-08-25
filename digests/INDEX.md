@@ -114,6 +114,7 @@
 | 2026-08-22 | 抵抗は敵じゃない(Organisationsberatung, Supervision, Coaching/Monika Zimmermann) / 事実と解釈は必ず分けろ(Tim Ferriss Show/Jim Dethmer) / 先に弱みを見せろは衝撃(Organization Science/Coutifaris・Grant) | [2026-08-22.md](coaching/2026-08-22.md) |
 | 2026-08-23 | 目を見すぎるなは実は間違い(The Conversation/Mauro Giacomantonio) / 批判は必ず3点セットで(HBR/Bin Zhao・Dunkailo) / 批判の前の一手は有料級(HBS/Paul Green他) | [2026-08-23.md](coaching/2026-08-23.md) |
 | 2026-08-24 | 好印象の作り方は実は間違い(Journal of Personal Selling & Sales Management/Jarkko Niemi他) / 価格は必ず3段階で見せろ(Paperbell) | [2026-08-24.md](coaching/2026-08-24.md) |
+| 2026-08-25 | 考えてから動くなは実は間違い(Journal of Cognitive Neuroscience/Tom James) / 直感は必ず準備で作れ(HBR/Alan McCall他) | [2026-08-25.md](coaching/2026-08-25.md) |
 
 ## 🧠 マインドセット(毎日18:00)
 
