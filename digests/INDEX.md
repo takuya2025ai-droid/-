@@ -46,6 +46,7 @@
 | 2026-08-23 | 顔出しなしで1.5万人は衝撃(Stan Blog/Dominic) / いきなり専門家ぶるな厳禁(Komet Media) / 勝負は0.5秒で決まる(Tweetangels) / いいねは無意味で知らないとヤバい(GOSO) | [2026-08-23.md](sns/2026-08-23.md) |
 | 2026-08-24 | 1本で3000人増加は一瞬で(JoinBrands/Patricia Streff) / 無難な投稿は絶対やめろ(Forbes) / 1枚目に詰め込むな厳禁(Social Mon) / リールは最後が命で知らないとヤバい(Medium/Esha Usmani) | [2026-08-24.md](sns/2026-08-24.md) |
 | 2026-08-25 | バズは運じゃなかった新事実(Elizabeth Marberry Podcast/Asli Wade) / 転載頼みの発信は絶対やめろ(9-to-Thrive/Carrie Loranger) / カルーセルに音楽で知らないとヤバい(Ned Potter) / 1投稿だけを見るなは実は間違い(Table Talks HK) | [2026-08-25.md](sns/2026-08-25.md) |
+| 2026-08-26 | フォロワー数の呪縛は実は間違い(Sam Eye Am) / 再生数の追いかけは絶対やめろ(Elizabeth Marberry Podcast) / 伸びない原因はこの順で必ず確認(CreatorHouse) / 数字が数字を呼ぶで知らないとヤバい(Uncustomary) | [2026-08-26.md](sns/2026-08-26.md) |
 
 ### 📚 旧ジャンルログ(SNS発信テクニック、～2026-07-23)
 
