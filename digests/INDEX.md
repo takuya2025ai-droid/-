@@ -167,6 +167,7 @@
 | 2026-08-24 | 助言集めは無駄で実は間違い(Fortune/Tarek Mansour) / 厳しさと優しさ両立は有料級(Inc./Ali Ansari) | [2026-08-24.md](mindset/2026-08-24.md) |
 | 2026-08-25 | 学歴で人を見るなは実は間違い(Fortune/Eric Francia) / 売り時の正体は知らないとヤバい(Entrepreneur/Roy Dekel) | [2026-08-25.md](mindset/2026-08-25.md) |
 | 2026-08-26 | 自信を待つなは実は間違い(My First Million/Allison Ellsworth) / 撤退基準は必ず事前に(The Lonely Entrepreneur/Michael Dermer) | [2026-08-26.md](mindset/2026-08-26.md) |
+| 2026-08-27 | 成功者は全員ゼロを経験という新事実(Modern Wisdom/Simon Sinek) / 大手から攻めるなは実は間違い(How I Built This/YETI・Seiders兄弟) / あえて成長を止めろで常識破壊(How I Built This/Bobbie・Laura Modi) | [2026-08-27.md](mindset/2026-08-27.md) |
 
 ## 📚 過去ログ(旧形式・全ジャンル混在、～2026-07-15)
 
