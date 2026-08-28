@@ -120,6 +120,7 @@
 | 2026-08-25 | 考えてから動くなは実は間違い(Journal of Cognitive Neuroscience/Tom James) / 直感は必ず準備で作れ(HBR/Alan McCall他) | [2026-08-25.md](coaching/2026-08-25.md) |
 | 2026-08-26 | 目標は代筆するなは実は間違い(arXiv/Vivienne Bihe Chi他) / 反論は歓迎しろで知らないとヤバい(GTMnow/Wingman) | [2026-08-26.md](coaching/2026-08-26.md) |
 | 2026-08-27 | 正確な指摘だけはNGで実は間違い(Allego/Carmen Simon) / 選択肢は多いほど損で常識破壊(INSEAD/Michael Schaerer) | [2026-08-27.md](coaching/2026-08-27.md) |
+| 2026-08-28 | 王道の売り方は最弱で常識破壊(Corporate Visions/Leff Bonney・FSU) / 自信過剰は損で知らないとヤバい(Haslam/Alex Zablah他) | [2026-08-28.md](coaching/2026-08-28.md) |
 
 ## 🧠 マインドセット(毎日18:00)
 
